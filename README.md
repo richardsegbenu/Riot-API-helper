@@ -6,9 +6,9 @@ A personal League of Legends companion CLI: match history analysis, fast summone
 
 ## Why
 
-I play LoL. Before queue I scout the lobby, in champ select I want quick counter-pick options, and after a session I want to see whether my form is real or whether I'm just on tilt. There are great web tools for each of these (op.gg, u.gg, mobalytics) but I wanted something that lived in my terminal, ran with one command, and let me slice the data my own way.
+I play LoL, embarassingly and unfortunately so. Every lobby is different, not always in a good way, in champ select I want quick counter-pick options, even though I'm horror at half the champs, and after a session I want to see whether my form is real or whether I'm just on another tilt streak. There are great web tools for each of these (op.gg, u.gg, mobalytics) but I wanted something that lived in my terminal, ran with one command, and let me handle the data my own way.
 
-Equally important: the Riot API is a fun thing to build against. Two-tier regional routing, dev keys that expire every 24 hours, aggressive rate limits - handling all that cleanly is most of the engineering work.
+Equally important: the Riot API is a fun thing to build against. Two-tier regional routing, dev keys that expire every 24 hours, aggressive rate limits - handling all that cleanly is most of the engineering work and I'm a software engineer so why not?
 
 ## Three things it does
 
